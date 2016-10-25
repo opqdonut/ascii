@@ -1,0 +1,93 @@
+kontena.io had a competition for an ascii art banner for their 1.0
+release.
+
+This is their old banner:
+ _               _
+| | _____  _ __ | |_ ___ _ __   __ _
+| |/ / _ \| '_ \| __/ _ \ '_ \ / _` |
+|   < (_) | | | | ||  __/ | | | (_| |
+|_|\_\___/|_| |_|\__\___|_| |_|\__,_|
+-------------------------------------
+Copyright (c)2016 Kontena, Inc.
+
+I tried mimicking their hexagonal logo. The first attempt was higher
+than the allowed 10 lines:
+
+0         ,-'-.__/  \ _/  \__/  \_     K
+1      ,-'     '-.__/  \ _/  \ _   .   O
+2   ,-'        ,-i-.\_ /  \_ /         N
+3 i'  ,-i      | |  'i \__/    _   \   T
+4 |   | |    ,-' |   |_   \_./   _     E
+5 |   | | ,-' .-'    | \__/   _ /   .  N
+6 |   | ''   '-.     |_/   _           A
+7 |   |  .-''-. 'i   | \__/  \. /   _
+8  '-.| |      | |,-'__   \ _/  \
+9     ' |      | '__/  \__/    _/
+a        '-.,-'__/  \     \__/
+
+So I submitted this:
+
+1          ,-'-.__/  \ _/  \__/  \_     K
+2       ,-'     i- __/  \ _/  \ _   .   O
+3    .-',-i     | |'-._ /  \_ /         N
+4    |  | |   ,-' |  |  \__/    _   \   T
+5    |  | |,-' .-'   |__   \_./   _     E
+6    |  | '  . '-.   |  \__/   _ /   .  N
+7    |  | .-' '-. i  |__/   _           A
+8    '-.| |     | |,-'  \__/  \. /   _
+9       ' |     | '  \__   \ _/  \
+a          '-,-'     Copyright (c)2016 Kontena, Inc.
+
+I also played around with a filled version of the logo:
+
+0        .xXXx.
+1      .xXXXXXXx.
+2   .xXXXXXXXXXI='x.
+3 .XXXI='XXXXXX|  XXX.
+4 |XXX|  XXXXI='  XXX|
+5 |XXX|  XI=' .xIXXXX|
+6 |XXX|  '    `IXXXXX|
+7 |XXX|  .xXXx.  'XXX|
+8  '=X|  XXXXXX|  X='
+9        XXXXXX|
+a        '=XX='
+
+1          ,xXx.__/  \ _/  \__/  \_     K
+2       ,xXXXXXXI= __/  \ _/  \ _   .   O
+3    .XXI='XXXXX|  Xx._ /  \_ /         N
+4    |XX|  XXXI=' .XX|  \__/    _   \   T
+5    |XX|  I='  .xXXX|__   \_./   _     E
+6    |XX|  '   `=IXXX|  \__/   _ /   .  N
+7    |XX|  .xXx.  `XX|__/   _           A
+8    '=X|  XXXXX|  X='  \__/  \. /   _
+9       '  XXXXX|    \__   \ _/  \
+a          '=X='     Copyright (c)2016 Kontena, Inc.
+
+Finally I also submitted this:
+
+0     |XXXX    |XXI='   .xXXXXXXXXX
+1     |XXXX    |='      '=IXXXXXXXX
+2     |XXXX                '=IXXXXX
+3     |XXXX       .xIx.       |XXXX
+4     |XXXX    .xXXXXXXXx.    |XXXX
+5     `=XXX    |XXXXXXXXXX    |XX='
+6        `=    |XXXXXXXXXX    |'            K O N T E N A
+7              |XXXXXXXXXX
+8              `=XXXXXXX='
+9                 `=I='   Copyright (c)2016 Kontena, Inc.
+
+Some abandoned ideas:
+
+  .-'-.-'-.-'-.-'-.
+  |   | K | O |   |
+  '-.-'-.-'-.-'-.-'-.-'-.
+        | N | T |   |   |
+      .-'-.-'-.-'-.-'-.-'
+      | E | N | A |   |
+    .-'-.-'-.-'-.-'-.-'
+    |   |
+    '-.-'  Copyright(c)2016 Kontena, Inc.
+
+     __            __       __
+|_/ /  \ /\ \ _|_ /_  /\ \ /__\
+| \ \__/ \ \/  |  \__ \ \/ \  /
